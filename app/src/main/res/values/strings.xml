@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Stock Market Viewer</string>
+    <string name="app_title">Stock Name/Symbol</string>
+    <string name="title_activity_stock_main">StockMainActivity</string>
+    <string name="title_activity_stock">StockActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string-array name="indicators">
+        <item>Price</item>
+        <item>SMA</item>
+        <item>EMA</item>
+        <item>MACD</item>
+        <item>RSI</item>
+        <item>ADX</item>
+        <item>CCI</item>
+        <item>STOCH</item>
+        <item>BBANDS</item>
+    </string-array>
+    <string-array name="SortByArray">
+        <item>Sort By</item>
+        <item>Default</item>
+        <item>Symbol</item>
+        <item>Price</item>
+        <item>Change</item>
+        <item>Change(%)</item>
+    </string-array>
+    <string-array name="OrderArray">
+        <item>Order</item>
+        <item>Ascending</item>
+        <item>Descending</item>
+    </string-array>
+</resources>
