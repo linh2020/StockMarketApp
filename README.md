@@ -1,5 +1,4 @@
-# Stock Search Application Android
-* Queried from PHP based AWS backend to provide real-time, after-market quotes for stocks
-* Used JavaScript based ‘WebView’ model to show stocks indicators charts
-* Designed user interface and software frameworks in Android Studio to provide robust service
-* Applied third party models to achieve rich features includes sharing and quick searching
+Stock Market Tracker Application (Android Application / Java)
+• Users can get real-time stock data and market news via Stock News APIs
+• Creation of personal stock portfolios and a live streaming news feed
+• The App is a portfolio tracker tool that can monitor the performance of your investments using data that's imported from stock exchanges
